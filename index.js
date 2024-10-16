@@ -10,6 +10,7 @@ const herois = [
     {nome: "Vi", xp: 10001}
 ]
 
+//for que percorre todo o o tamanho do array herois
 for(let i=0; i < herois.length; i++){
     //variável que recebe o array 
     let heroi = herois[i];
